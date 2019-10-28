@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot Nexus Repository </name>
+	      <name>Snapshots Nexus Repository </name>
 	      <url>http://34.93.155.208:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
